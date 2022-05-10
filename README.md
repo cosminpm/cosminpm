@@ -1,3 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div id="badges",aling = "center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cosminmp&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
